@@ -8,52 +8,86 @@ redirect_from:
 ---
 
 {% include base_path %}
+Page under construction
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+[comment]: <> (Education)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+[comment]: <> (======)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+[comment]: <> (* B.S. in GitHub, GitHub University, 2012)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[comment]: <> (* M.S. in Jekyll, GitHub University, 2014)
+
+[comment]: <> (* Ph.D in Version Control Theory, GitHub University, 2018 &#40;expected&#41;)
+
+[comment]: <> (Work experience)
+
+[comment]: <> (======)
+
+[comment]: <> (* Summer 2015: Research Assistant)
+
+[comment]: <> (  * Github University)
+
+[comment]: <> (  * Duties included: Tagging issues)
+
+[comment]: <> (  * Supervisor: Professor Git)
+
+[comment]: <> (* Fall 2015: Research Assistant)
+
+[comment]: <> (  * Github University)
+
+[comment]: <> (  * Duties included: Merging pull requests)
+
+[comment]: <> (  * Supervisor: Professor Hub)
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+[comment]: <> (Skills)
+
+[comment]: <> (======)
+
+[comment]: <> (* Skill 1)
+
+[comment]: <> (* Skill 2)
+
+[comment]: <> (  * Sub-skill 2.1)
+
+[comment]: <> (  * Sub-skill 2.2)
+
+[comment]: <> (  * Sub-skill 2.3)
+
+[comment]: <> (* Skill 3)
+
+[comment]: <> (Publications)
+
+[comment]: <> (======)
+
+[comment]: <> (  <ul>{% for post in site.publications %})
+
+[comment]: <> (    {% include archive-single-cv.html %})
+
+[comment]: <> (  {% endfor %}</ul>)
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[comment]: <> (Talks)
+
+[comment]: <> (======)
+
+[comment]: <> (  <ul>{% for post in site.talks %})
+
+[comment]: <> (    {% include archive-single-talk-cv.html %})
+
+[comment]: <> (  {% endfor %}</ul>)
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[comment]: <> (Teaching)
+
+[comment]: <> (======)
+
+[comment]: <> (  <ul>{% for post in site.teaching %})
+
+[comment]: <> (    {% include archive-single-cv.html %})
+
+[comment]: <> (  {% endfor %}</ul>)
+  
+[comment]: <> (Service and leadership)
+
+[comment]: <> (======)
+
+[comment]: <> (* Currently signed in to 43 different slack teams)
