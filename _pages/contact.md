@@ -5,10 +5,6 @@ author_profile: true
 redirect_from: 
   - /contact.html
 ---
-
-## Contact
-
-
 You can find me (when not work-from-home) at:
 ### CTTC
 <address>
