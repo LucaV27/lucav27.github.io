@@ -1,0 +1,31 @@
+site_name: Luca Vettori
+theme:
+  name: material
+  favicon: images/favicon.png
+  logo: images/favicon.png
+  features:
+    - navigation.tabs
+  palette:
+    # name: material
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/LucaV27
+    - icon: fontawesome/brands/github
+      link: https://github.com/LucaV27
+    - icon: fontawesome/brands/linkedin 
+      link: https://www.linkedin.com/in/lucavettori/
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+copyright: Copyright © 2022 Luca Vettori
+
