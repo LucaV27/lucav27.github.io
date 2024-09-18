@@ -2,7 +2,9 @@
 
 Below is an interactive map of all the places I've visited.
 
-<div id="map" style="height: 600px;"></div>
+<div id="map-container" style="position: relative; width: 100%; height: 600px; overflow: hidden;">
+   <div id="map" style="height: 100%; width: 100%;"></div>
+</div>
 
 <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
@@ -16,7 +18,7 @@ Below is an interactive map of all the places I've visited.
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
 
-    // Add markers for the places you've been
+    // Add markers for places you've visited
     var places = [
         { lat: 48.8566, lon: 2.3522, name: 'Paris, France' },
         { lat: 40.7128, lon: -74.0060, name: 'New York, USA' },
