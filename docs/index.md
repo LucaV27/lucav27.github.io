@@ -14,4 +14,4 @@ During this last period, he developed a strong understanding of _Python_ and its
 
 ## Resume
 
-<a href="/resources/Luca_Vettori_MSc.pdf" target="_blank">View my resume</a>
+<a href="/resources/Luca-Vettori-MSc-2024.pdf" target="_blank">View my resume</a>
